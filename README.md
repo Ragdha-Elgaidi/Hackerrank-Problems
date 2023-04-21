@@ -1,1 +1,1 @@
-# SQL-Hackerrank-Problems
+# Hackerrank-Problems
